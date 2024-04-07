@@ -8,6 +8,7 @@ An app for searching for SpotPass (BOSS) tasks. Developed by ZeroSkill.
    ```
    taskfinder [ctr/wup]-boss-apps.json [ctr/wup] task_name_to_search_goes_here
    ```
+Newly found tasks will be output to the console.
    
 ## Notes
 You must provide a ctr or wup boss apps json in the same directory as the executable for it to work.
