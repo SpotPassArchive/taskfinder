@@ -6,7 +6,7 @@ An app for searching for SpotPass (BOSS) tasks. Developed by ZeroSkill.
 1. To compile & use, you must have the `libjannson-dev` and `libcurl4` packages. You must also have `build-essential`. Build it with `make`.
 2. Once compiled, the syntax is as follows:
    ```
-   taskfinder [ctr or wup]-boss-apps.json [ctr or wup] task_name_to_search_goes_here
+   taskfinder [ctr/wup]-boss-apps.json [ctr/wup] task_name_to_search_goes_here
    ```
    
 ## Notes
